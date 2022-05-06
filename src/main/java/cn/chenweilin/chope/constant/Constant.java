@@ -35,7 +35,7 @@ public class Constant {
     /**
      *  升序
      */
-    public static final String ASC = "asc";
+    public static final String ASC = "asc"  ;
 	/**
 	 * 菜单类型
 	 *
