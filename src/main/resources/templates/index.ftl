@@ -13,9 +13,9 @@
         <td>Email</td>
     </tr>
     <tr>
-        <td>${user.name}</td>
-        <td>${user.age}</td>
-        <td>${user.email}</td>
+        <td>${user.name} </td>
+        <td>${user.age} </td>
+        <td>${user.email} </td>
     </tr>
 </table>
 </body>
