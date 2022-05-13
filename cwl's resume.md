@@ -17,17 +17,17 @@
 
 ### :file_folder: 我的技能
 
-+ 熟练掌握SpringCloud、Nacos、Gateway
-
-+ 熟练掌握Mysql、Redis
-+ 熟练掌握Linux、Shell
++ 熟练掌握Java语言，熟悉JVM、JUC
++ 熟练掌握Mysql语法，熟悉Mysql索引、事务特性，了解MVCC、慢sql优化等
++ 熟练掌握Redis类型，熟悉Redisson、布隆过滤器使用，了解RedLock
 + 熟练掌握Mybatis-Plus、熟悉Jpa、了解Mybatis-mate低代码
-+ 熟悉JVM、JUC
-+ 熟悉RabbitMq、Kafka
-+ 熟悉k8s、docker
-+ 熟悉云平台
++ 熟悉SpringCloud Alibaba生态、Nacos、Gateway
++ 熟悉版本控制git，能够熟练CodeHub（华为云龙流水线）、GitHub进行分支管理、合并、重置以及回退
++ 熟悉Linux系统，能够使用Shell脚本编写自动化工具
++ 熟悉RabbitMq、Kafka 特性及使用，了解消息分发模型，消息如何避免重复发送、死信队列等
++ 熟悉docker，能独立编写Dockerfile，完成Docker compose编排，了解k8s以及kubersphere平台
++ 熟悉云平台，能够独立或指导进行云平台资源购买以及选型
 + 了解Sharding Sphere、MyCat
-+ 了解Netty、t-io
 + 了解halo、ruoyi、renren-generator、gulimall等github开源项目并阅读过源码
 
 ---
@@ -36,14 +36,7 @@
 
 **中软国际**                                                                                                      **2021.09-至今**
 
-- 带新人，指导新人
-- 修复Bug，压测系统，突破系统瓶颈
-- 提出解决方案
-
 **深圳中科软科技信息系统有限公司**                                                           **2020.08-2021.08**
-
-- 完成项目经理给的任务
-- 修复Bug
 
 ----
 
@@ -57,7 +50,7 @@
 
 项目后端相关技术栈：
 
-Nacos、MySQL、Mybatis-Plus、Redis、Kafka、华为云ICT生态
+Spring Cloud、Nacos、MySQL、Mybatis-Plus、Redis、Kafka、华为云ICT生态SDK
 
 主要负责事项：
 
